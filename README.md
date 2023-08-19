@@ -1,8 +1,10 @@
 # Sales_Analysis
 
 This is a company's sales dataset, which captures the sales activities of the company in 2018. This analysis captured important metrics that will be important to the company's business decisions and optimising sales goals.
-The columns in this dataset includes: Order_id, Date, Customer_id, Sales_person, Company, Region, Price, Quantity and Revenue.
-The recommended analysis carried out:
+
+The columns in this dataset include: Order_id, Date, Customer_id, Sales_person, Company, Region, Price, Quantity, and Revenue.
+
+The recommended analysis carried out
 --Sum of quantity sold
 --Sum of revenue
 --Average revenue
