@@ -1,6 +1,6 @@
 --Viewing my imported data
 SELECT *
-FROM portfolio_project
+FROM "Sales"
 
 --Recommended Analysis:
 --Sum of quantity sold
