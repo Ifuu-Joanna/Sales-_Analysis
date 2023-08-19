@@ -1,7 +1,3 @@
---Viewing my imported data
-SELECT *
-FROM "Sales"
-
 --Recommended Analysis:
 --Sum of quantity sold
 --Sum of revenue
